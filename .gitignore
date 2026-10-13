@@ -1,0 +1,6 @@
+task.txt
+example_multiline_fasta.fasta
+example_fastq.fastq
+/data/
+__pycache__/
+*.pyc
